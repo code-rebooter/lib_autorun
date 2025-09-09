@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github</groupId>
   <artifactId>lib_autorun</artifactId>
-  <version>1.0.43</version>
+  <version>1.0.45</version>
   <packaging>aar</packaging>
 
   <repositories>
