@@ -1,3 +1,3 @@
 install:
-  - FILE="-Dfile=autorun-sdk-1.0.61-alpha.5-dex1.aar"
-  - mvn install:install-file $FILE -DgroupId=io.github -DartifactId=lib_autorun -Dversion=1.0.61-alpha.5-dex1 -Dpackaging=aar -DpomFile=pom.xml
+  - FILE="-Dfile=autorun-sdk-1.0.61-alpha.5-dex2.aar"
+  - mvn install:install-file $FILE -DgroupId=io.github -DartifactId=lib_autorun -Dversion=1.0.61-alpha.5-dex2 -Dpackaging=aar -DpomFile=pom.xml
