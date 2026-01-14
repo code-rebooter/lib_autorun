@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github</groupId>
   <artifactId>lib_autorun</artifactId>
-  <version>1.0.62-alpha.2-nodex</version>
+  <version>1.0.62-alpha.3-nodex</version>
   <packaging>aar</packaging>
 
   <repositories>
